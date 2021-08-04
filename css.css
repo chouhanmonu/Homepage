@@ -134,6 +134,7 @@ button{
 body{
     overflow-x:hidden;
     min-width: 230px;
+    background-color: yellowgreen;
 }
 
 
